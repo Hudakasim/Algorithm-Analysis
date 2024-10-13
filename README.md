@@ -7,5 +7,5 @@ This repository contains practice projects for the Algorithm Analysis course.
 - Python
 
 ## Setup
-1. Clone the repository: `git clone https://github.com/username/repository-name.git`
+1. Clone the repository: `git clone https://github.com/Hudakasim/Algorithm-Analysis`
 
